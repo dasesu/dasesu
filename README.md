@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasesu&layout=compact&langs_count=10&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasesu&layout=compact&langs_count=12&hide=Go)
 
 <!--
 **dasesu/dasesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
